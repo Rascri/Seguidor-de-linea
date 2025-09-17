@@ -62,3 +62,9 @@ El seguidor de línea se conforma de una única placa:
 - **Pistas de cobre:** 0,7 mm y 1 mm en la capa B.Cu  
 
 ---
+
+
+## Ver video de funcionamiento
+https://www.youtube.com/watch?v=6doH972kP_8
+
+---
