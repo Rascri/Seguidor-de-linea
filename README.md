@@ -1,4 +1,4 @@
- Seguidor de Línea V1.0
+# Seguidor de Línea V1.0
 
 ## Descripción General
  Se trata de un robot automático de una única placa cuyo propósito es seguir una línea (usualmente negra sobre un fondo blanco) utilizando sensores.  
