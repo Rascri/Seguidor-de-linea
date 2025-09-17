@@ -12,7 +12,7 @@
 
 ##  Esquemático
 En este esquemático se muestran las secciones del robot con sus debidos componentes y especificaciones.  
-![Esquemático](images/esquematico.png)
+
 
 ---
 
