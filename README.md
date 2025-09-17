@@ -3,17 +3,6 @@
 ## Descripción General
  Se trata de un robot automático de una única placa cuyo propósito es seguir una línea (usualmente negra sobre un fondo blanco) utilizando sensores.  
  Es mayormente utilizado para la enseñanza de pid en instituciones y competir regionalmente.
-[![](Bloques)](https://imgur.com/HsKrPqC)
----
-
-## Diagrama de Bloques
-
----
-
-##  Esquemático
-En este esquemático se muestran las secciones del robot con sus debidos componentes y especificaciones.  
-
-
 ---
 
 ##  Etapas Funcionales
@@ -72,14 +61,4 @@ El seguidor de línea se conforma de una única placa:
 - **Tamaño:** 126 mm x 104,5 mm  
 - **Pistas de cobre:** 0,7 mm y 1 mm en la capa B.Cu  
 
-### Top View
-![Top View](images/pcb_top.png)
-
-### Gerber View
-![Gerber View](images/pcb_gerber.png)
-
 ---
-
-## Reparación de Problemas
-Diagrama de flujo para la resolución de posibles problemas del robot:  
-![Diagrama de Problemas](images/flow_problemas.png)
